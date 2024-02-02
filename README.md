@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SharanNaganuri13
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in Java Backend Development.
 - 🌱 I’m currently learning Java Spring Boot
 - 📫 How to reach me www.linkedin.com/in/smn13
 
